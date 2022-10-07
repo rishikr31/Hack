@@ -1,5 +1,6 @@
 public class BinarySearch{
 
+    aditya
     public int binarysearch(int A[], int n, int key) {
         int l = 0;
         int r = n-1;
